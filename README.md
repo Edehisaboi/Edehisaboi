@@ -3,7 +3,7 @@
 ![dino-dark](https://github.com/user-attachments/assets/386f93b1-d94d-4d37-9a41-224f593f6846)
 
 
-Hey there, I’m Israel! I’m a Software Engineer & Full-Stack Developer, focused on building ML systems that actually work in real-world production environments. I’m all about turning ideas into practical solutions that make a difference.<br><br>Always open to cool new projects, collaborations, or just connecting. Feel free to reach out on socials or drop a PR! 💪
+Hey there, I’m Israel! a Software Engineer & Full-Stack Developer, focused on building ML systems that actually work in real-world production environments. I’m all about turning ideas into practical solutions that make a difference.<br><br>Always open to cool new projects, collaborations, or just connecting. Feel free to reach out on socials or drop a PR! 💪
 
 ##### Working on:
 - **Moovio**- Shazam-style movie/TV identification (live video + audio).
