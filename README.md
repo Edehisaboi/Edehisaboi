@@ -6,8 +6,8 @@
 Hey there, I’m Israel! a Software Engineer & Full-Stack Developer, focused on building ML systems that actually work in real-world production environments. I’m all about turning ideas into practical solutions that make a difference.<br><br>Always open to cool new projects, collaborations, or just connecting. Feel free to reach out on socials or drop a PR! 💪
 
 ##### Working on:
-- **Moovio**- Shazam-style movie/TV identification (live video + audio).
-- **Largence**- AI agents that draft legal docs via a FastAPI WebSocket backend.
+- **Ovelo**- Shazam-style movie/TV identification (live video + audio).
+- **Lexer**- AI agents that draft legal documents via a FastAPI WebSocket backend.
 
 ##### I usually code in:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
